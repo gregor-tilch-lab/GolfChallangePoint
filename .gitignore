@@ -1,0 +1,25 @@
+# Logs
+logs/
+npm-debug.log
+package-lock.json
+
+# Dependency directories
+node_modules/
+
+# Build directories
+.next/
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Output of `next build`
+build/
+
+# Next.js specific files
+.next/
+
+# Optional ESLint config
+.eslintrc.json
